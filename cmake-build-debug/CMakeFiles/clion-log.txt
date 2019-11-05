@@ -1,0 +1,11 @@
+C:\JetBrains\apps\CLion\ch-0\193.4386.19\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Programming\Code\C\BuddyAllocator
+-- The C compiler identification is GNU 9.2.0
+-- Check for working C compiler: C:/Programming/Msys2/mingw64/bin/gcc.exe
+-- Check for working C compiler: C:/Programming/Msys2/mingw64/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Programming/Code/C/BuddyAllocator/cmake-build-debug

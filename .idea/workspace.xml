@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="BuddyAllocator" targetName="BuddyAllocator" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1696ac19-542e-46ca-8e17-8a1594f99a2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1T72XMUmKNExwQ8YwYwKvwQSVXL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BuddyAllocator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BuddyAllocator" TARGET_NAME="BuddyAllocator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="BuddyAllocator" RUN_TARGET_NAME="BuddyAllocator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1696ac19-542e-46ca-8e17-8a1594f99a2f" name="Default Changelist" comment="" />
+      <created>1572796851223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572796851223</updated>
+      <workItem from="1572796855696" duration="35417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1572810680040">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1572810680040" />
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1572841749190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1572841749190" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1572841749190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1572841749190" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1572841749190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1572841749190" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1572841749190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1572841749190" />
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom" timestamp="1572841749190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1572841749190" />
+    <state width="1493" height="264" key="GridCell.Tab.1.center" timestamp="1572841749190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1572841749190" />
+    <state width="1493" height="264" key="GridCell.Tab.1.left" timestamp="1572841749190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1572841749190" />
+    <state width="1493" height="264" key="GridCell.Tab.1.right" timestamp="1572841749190">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1572841749190" />
+    <state x="277" y="59" key="SettingsEditor" timestamp="1572811185958">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1572811185958" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1572796856667">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1572796856667" />
+    <state x="567" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1572798850124">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="567" y="106" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1572798850124" />
+    <state x="510" y="60" key="refactoring.ChangeSignatureDialog" timestamp="1572811706285">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="510" y="60" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1572811706285" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1572840012393">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1572840012393" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1572827594739">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1572827594739" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/allocator.c</url>
+          <line>169</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="1" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

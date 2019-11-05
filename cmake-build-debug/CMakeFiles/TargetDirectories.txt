@@ -1,0 +1,3 @@
+D:/Programming/Code/C/BuddyAllocator/cmake-build-debug/CMakeFiles/BuddyAllocator.dir
+D:/Programming/Code/C/BuddyAllocator/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Code/C/BuddyAllocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

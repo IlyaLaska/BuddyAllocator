@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming/Code/C/BuddyAllocator/SLL.h
+stdlib.h
+-
+
+D:/Programming/Code/C/BuddyAllocator/allocator.h
+hashTable.h
+D:/Programming/Code/C/BuddyAllocator/hashTable.h
+
+D:/Programming/Code/C/BuddyAllocator/hashTable.h
+SLL.h
+D:/Programming/Code/C/BuddyAllocator/SLL.h
+
+D:/Programming/Code/C/BuddyAllocator/main.c
+stdio.h
+-
+allocator.h
+D:/Programming/Code/C/BuddyAllocator/allocator.h
+
